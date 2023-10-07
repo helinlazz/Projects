@@ -221,9 +221,6 @@ const MultiStepForm = () => {
                 <strong>Packages:</strong> {formData.packages.join(', ')}
               </p>
               <p>
-                <strong>Payment Method:</strong> {formData.paymentMethod}
-              </p>
-              <p>
                 <strong>Card Number:</strong> {formData.cardNumber}
               </p>
               <p>
