@@ -5,7 +5,7 @@ import './App.css'
 const App = () => {
   return (
     <div className='app-container'>
-      <h1>Progress Form</h1>
+      <h1>Step Form</h1>
       <MultiStepForm />
     </div>
   )
