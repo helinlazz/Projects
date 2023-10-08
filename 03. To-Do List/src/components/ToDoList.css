@@ -1,0 +1,118 @@
+.todo-app {
+  max-width: 400px;
+  margin: auto;
+}
+
+.add-task {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+input {
+  flex-grow: 1;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #195c26;
+}
+
+button {
+  padding: 10px;
+  background-color: #195c26;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #268b3a;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  color: white;
+}
+
+.task-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #68962b;
+  border: 2px solid #195c26;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.task-item span {
+  cursor: pointer;
+}
+
+.task-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+label {
+  margin-right: 5px;
+}
+
+.select-category {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.buttons button {
+  margin-left: 5px;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.priority-stars {
+  color: #f6ff00;
+  margin-right: 5px;
+}
+
+.category {
+  color: #195c26;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #ec4b5b;
+}
+
+.confirm-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.confirm-button:hover {
+  background-color: #0056b3;
+}
