@@ -17,7 +17,6 @@ Here you will find various projects
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contact](#contact)
 
 ## Installation
@@ -49,14 +48,6 @@ Start the application:
 ```bash
 npm run dev
 ```
-
-## Project Structure
-
-projects/
-|-- 01. Expanding cards/
-|-- 02. Step Form/
-|-- gif/
-|-- README.md
 
 ## Contact
 
