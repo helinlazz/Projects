@@ -10,6 +10,9 @@ Here you will find various projects
 2. Step Form:
    ![GIF Example](./gif/Project-2.gif)
 
+3. To-Do List:
+   ![GIF Example](./gif/Project-3.gif)
+
 ## Table of contents
 
 - [Installation](#installation)
