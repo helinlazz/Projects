@@ -13,6 +13,9 @@ Here you will find various projects
 3. To-Do List:
    ![GIF Example](./gif/Project-3.gif)
 
+4. Weather App:
+   ![GIF Example](./gif/Project-4.gif)
+
 ## Table of contents
 
 - [Installation](#installation)
